@@ -4,9 +4,10 @@
 module.exports = function(environment) {
   let ENV = {
     modulePrefix: 'remember-me',
+    podModulePrefix: 'remember-me',
     environment,
-    rootURL: '/',
-    locationType: 'auto',
+    rootURL: '',
+    locationType: 'hash',
     EmberENV: {
       FEATURES: {
         // Here you can enable experimental features on an ember canary build
