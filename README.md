@@ -1,7 +1,6 @@
 # remember-me
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+Example of an ember-cordova app. Commands to run and build a sign release of this Application is witten in my wiki. You can ask me for an guest account :)
 
 ## Prerequisites
 
