@@ -1,6 +1,6 @@
 # remember-me
 
-Example of an ember-cordova app. Commands to run and build a sign release of this Application is witten in my wiki. You can ask me for an guest account :)
+Example of an ember-cordova app. Commands to run and build a sign release of this Application is witten on my Blog.
 
 ## Prerequisites
 
